@@ -66,9 +66,3 @@ I would like to express my gratitude to the following resources and contributors
 - Flutter community for their valuable support
 - Stack Overflow for providing solutions to coding challenges
 
-## Contact
-
-If you have any questions or feedback, feel free to reach out to me:
-
-- Email: your-email@example.com
-- GitHub: [your-username](https://github.com/your-username)
